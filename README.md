@@ -1,4 +1,4 @@
-# Final Project - Foundation of Computer Science
+# Final Project - Foundations of Computer Science
 ## Introduction
 The goal of this project is to answer various questions related to the [**Kiva**](https://www.kaggle.com/gaborfodor/additional-kiva-snapshot) dataset. In particular I answered the following questions:
 
